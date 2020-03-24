@@ -54,6 +54,6 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "noty": "git+ssh://git@github.com/pierrebarbaroux/noty.git"
+    "noty": "git+ssh://git@github.com/iDalgoParis/noty.git"
   }
 }
